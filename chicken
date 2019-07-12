@@ -1,5 +1,5 @@
 [server]
-IP=
-port=Testing Server Didn't Open#Please Pay Attention To Alpha Testing!
-;IP=rainstorm130.com
-;port=10541
+;IP=
+;port=Testing Server Didn't Open#Please Pay Attention To Alpha Testing!
+IP=rainstorm130.com
+port=10541
