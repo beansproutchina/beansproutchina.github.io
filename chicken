@@ -1,8 +1,8 @@
 [server]
 ;IP=
 ;port=Testing Server Didn't Open#Please Pay Attention To Alpha Testing!
-IP=380cc4df.nat123.fun
-port=27672
+IP=frp-arm.top
+port=22151
 [training]
 IP=182.61.23.208
 port=54252
